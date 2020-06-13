@@ -1,0 +1,1304 @@
+{
+	"img0.png257258": {
+		"fileref": "",
+		"size": 257258,
+		"filename": "img0.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [103, 134, 149, 155, 170, 192, 233, 241, 238, 310, 367, 415, 425, 413, 379, 335, 294, 265, 173, 152, 132, 85, 77, 83, 94, 79, 42, 35, 3, 5, 34, 7, 2, 3, 57, 77, 96, 103],
+					"all_points_y": [220, 237, 229, 206, 218, 229, 237, 209, 197, 265, 274, 286, 274, 246, 211, 197, 153, 117, 84, 79, 78, 57, 76, 98, 134, 135, 27, 9, 12, 33, 80, 98, 159, 185, 199, 188, 195, 220]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [3, 86, 160, 200, 283, 330, 363, 390, 412, 98, 66, 49, 57, 3, 3],
+					"all_points_y": [203, 236, 261, 276, 270, 273, 272, 278, 287, 287, 268, 267, 287, 287, 203]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img0_a.png186876": {
+		"fileref": "",
+		"size": 186876,
+		"filename": "img0_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [103, 134, 149, 155, 170, 192, 233, 241, 238, 310, 367, 415, 425, 413, 379, 335, 294, 265, 173, 152, 132, 85, 77, 83, 94, 79, 42, 35, 3, 5, 34, 7, 2, 3, 57, 77, 96, 103],
+					"all_points_y": [220, 237, 229, 206, 218, 229, 237, 209, 197, 265, 274, 286, 274, 246, 211, 197, 153, 117, 84, 79, 78, 57, 76, 98, 134, 135, 27, 9, 12, 33, 80, 98, 159, 185, 199, 188, 195, 220]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [3, 86, 160, 200, 283, 330, 363, 390, 412, 98, 66, 49, 57, 3, 3],
+					"all_points_y": [203, 236, 261, 276, 270, 273, 272, 278, 287, 287, 268, 267, 287, 287, 203]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img0_b.png185247": {
+		"fileref": "",
+		"size": 185247,
+		"filename": "img0_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [103, 134, 149, 155, 170, 192, 233, 241, 238, 310, 367, 415, 425, 413, 379, 335, 294, 265, 173, 152, 132, 85, 77, 83, 94, 79, 42, 35, 3, 5, 34, 7, 2, 3, 57, 77, 96, 103],
+					"all_points_y": [220, 237, 229, 206, 218, 229, 237, 209, 197, 265, 274, 286, 274, 246, 211, 197, 153, 117, 84, 79, 78, 57, 76, 98, 134, 135, 27, 9, 12, 33, 80, 98, 159, 185, 199, 188, 195, 220]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [3, 86, 160, 200, 283, 330, 363, 390, 412, 98, 66, 49, 57, 3, 3],
+					"all_points_y": [203, 236, 261, 276, 270, 273, 272, 278, 287, 287, 268, 267, 287, 287, 203]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img1.png938299": {
+		"fileref": "",
+		"size": 938299,
+		"filename": "img1.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 242, 267, 281, 326, 349, 382, 374, 359, 311, 258, 208, 200],
+					"all_points_y": [208, 229, 230, 252, 289, 289, 272, 221, 160, 132, 131, 178, 208]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [411, 385, 396, 411, 453, 476, 507, 536, 543, 522, 466, 425, 411],
+					"all_points_y": [240, 280, 321, 338, 331, 351, 382, 371, 318, 279, 250, 236, 240]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img1_a.png763666": {
+		"fileref": "",
+		"size": 763666,
+		"filename": "img1_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 242, 267, 281, 326, 349, 382, 374, 359, 311, 258, 208, 200],
+					"all_points_y": [208, 229, 230, 252, 289, 289, 272, 221, 160, 132, 131, 178, 208]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [411, 385, 396, 411, 453, 476, 507, 536, 543, 522, 466, 425, 411],
+					"all_points_y": [240, 280, 321, 338, 331, 351, 382, 371, 318, 279, 250, 236, 240]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img1_b.png739159": {
+		"fileref": "",
+		"size": 739159,
+		"filename": "img1_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 242, 267, 281, 326, 349, 382, 374, 359, 311, 258, 208, 200],
+					"all_points_y": [208, 229, 230, 252, 289, 289, 272, 221, 160, 132, 131, 178, 208]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [411, 385, 396, 411, 453, 476, 507, 536, 543, 522, 466, 425, 411],
+					"all_points_y": [240, 280, 321, 338, 331, 351, 382, 371, 318, 279, 250, 236, 240]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img2.png157053": {
+		"fileref": "",
+		"size": 157053,
+		"filename": "img2.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 201, 236, 275, 312, 328, 276, 239, 202, 163, 148, 149],
+					"all_points_y": [35, 57, 76, 83, 82, 68, 43, 22, 14, 10, 21, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [298, 373, 461, 500, 509, 374, 307, 293, 298],
+					"all_points_y": [34, 68, 106, 105, 89, 28, 9, 21, 34]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img2_a.png111282": {
+		"fileref": "",
+		"size": 111282,
+		"filename": "img2_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 201, 236, 275, 312, 328, 276, 239, 202, 163, 148, 149],
+					"all_points_y": [35, 57, 76, 83, 82, 68, 43, 22, 14, 10, 21, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [298, 373, 461, 500, 509, 374, 307, 293, 298],
+					"all_points_y": [34, 68, 106, 105, 89, 28, 9, 21, 34]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img2_b.png110318": {
+		"fileref": "",
+		"size": 110318,
+		"filename": "img2_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 201, 236, 275, 312, 328, 276, 239, 202, 163, 148, 149],
+					"all_points_y": [35, 57, 76, 83, 82, 68, 43, 22, 14, 10, 21, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [298, 373, 461, 500, 509, 374, 307, 293, 298],
+					"all_points_y": [34, 68, 106, 105, 89, 28, 9, 21, 34]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img4.png121394": {
+		"fileref": "",
+		"size": 121394,
+		"filename": "img4.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [105, 165, 184, 215, 239, 273, 286, 288, 263, 249, 260, 260, 237, 191, 127, 114, 110, 105],
+					"all_points_y": [76, 103, 128, 139, 138, 149, 145, 131, 118, 112, 101, 89, 78, 78, 52, 60, 76, 76]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img4_a.png100135": {
+		"fileref": "",
+		"size": 100135,
+		"filename": "img4_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [105, 165, 184, 215, 239, 273, 286, 288, 263, 249, 260, 260, 237, 191, 127, 114, 110, 105],
+					"all_points_y": [76, 103, 128, 139, 138, 149, 145, 131, 118, 112, 101, 89, 78, 78, 52, 60, 76, 76]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img4_b.png96569": {
+		"fileref": "",
+		"size": 96569,
+		"filename": "img4_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [105, 165, 184, 215, 239, 273, 286, 288, 263, 249, 260, 260, 237, 191, 127, 114, 110, 105],
+					"all_points_y": [76, 103, 128, 139, 138, 149, 145, 131, 118, 112, 101, 89, 78, 78, 52, 60, 76, 76]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img5.png134323": {
+		"fileref": "",
+		"size": 134323,
+		"filename": "img5.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [61, 90, 135, 179, 176, 169, 152, 118, 103, 103, 139, 137, 129, 97, 63, 61],
+					"all_points_y": [66, 42, 54, 81, 97, 111, 106, 83, 87, 96, 116, 131, 140, 131, 100, 66]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img5_a.png95563": {
+		"fileref": "",
+		"size": 95563,
+		"filename": "img5_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [61, 90, 135, 179, 176, 169, 152, 118, 103, 103, 139, 137, 129, 97, 63, 61],
+					"all_points_y": [66, 42, 54, 81, 97, 111, 106, 83, 87, 96, 116, 131, 140, 131, 100, 66]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img5_b.png93976": {
+		"fileref": "",
+		"size": 93976,
+		"filename": "img5_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [61, 90, 135, 179, 176, 169, 152, 118, 103, 103, 139, 137, 129, 97, 63, 61],
+					"all_points_y": [66, 42, 54, 81, 97, 111, 106, 83, 87, 96, 116, 131, 140, 131, 100, 66]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img6.png387956": {
+		"fileref": "",
+		"size": 387956,
+		"filename": "img6.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [171, 185, 203, 222, 275, 273, 254, 243, 214, 170, 171],
+					"all_points_y": [11, 76, 119, 117, 91, 65, 62, 20, 2, 2, 11]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img6_a.png284648": {
+		"fileref": "",
+		"size": 284648,
+		"filename": "img6_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [171, 185, 203, 222, 275, 273, 254, 243, 214, 170, 171],
+					"all_points_y": [11, 76, 119, 117, 91, 65, 62, 20, 2, 2, 11]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img6_b.png280601": {
+		"fileref": "",
+		"size": 280601,
+		"filename": "img6_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [171, 185, 203, 222, 275, 273, 254, 243, 214, 170, 171],
+					"all_points_y": [11, 76, 119, 117, 91, 65, 62, 20, 2, 2, 11]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img7.png361744": {
+		"fileref": "",
+		"size": 361744,
+		"filename": "img7.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 187, 303, 452, 487, 449, 339, 260, 218, 110, 45, 45, 118, 123, 128],
+					"all_points_y": [90, 50, -1, 4, 44, 170, 207, 213, 278, 282, 250, 197, 160, 105, 90]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img7_a.png276520": {
+		"fileref": "",
+		"size": 276520,
+		"filename": "img7_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 187, 303, 452, 487, 449, 339, 260, 218, 110, 45, 45, 118, 123, 128],
+					"all_points_y": [90, 50, -1, 4, 44, 170, 207, 213, 278, 282, 250, 197, 160, 105, 90]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img7_b.png270884": {
+		"fileref": "",
+		"size": 270884,
+		"filename": "img7_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 187, 303, 452, 487, 449, 339, 260, 218, 110, 45, 45, 118, 123, 128],
+					"all_points_y": [90, 50, -1, 4, 44, 170, 207, 213, 278, 282, 250, 197, 160, 105, 90]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img8.png127246": {
+		"fileref": "",
+		"size": 127246,
+		"filename": "img8.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 132, 151, 190, 229, 234, 232, 200, 165, 134],
+					"all_points_y": [54, 100, 131, 150, 145, 130, 85, 42, 36, 54]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 62, 54, 61, 155, 175, 169, 142, 100, 69, 72, 75, 28, 18, 27, 47, 68, 70],
+					"all_points_y": [68, 89, 114, 133, 152, 177, 210, 226, 223, 204, 182, 167, 144, 128, 79, 53, 46, 68]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img8_a.png100236": {
+		"fileref": "",
+		"size": 100236,
+		"filename": "img8_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 132, 151, 190, 229, 234, 232, 200, 165, 134],
+					"all_points_y": [54, 100, 131, 150, 145, 130, 85, 42, 36, 54]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 62, 54, 61, 155, 175, 169, 142, 100, 69, 72, 75, 28, 18, 27, 47, 68, 70],
+					"all_points_y": [68, 89, 114, 133, 152, 177, 210, 226, 223, 204, 182, 167, 144, 128, 79, 53, 46, 68]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img8_b.png97486": {
+		"fileref": "",
+		"size": 97486,
+		"filename": "img8_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 132, 151, 190, 229, 234, 232, 200, 165, 134],
+					"all_points_y": [54, 100, 131, 150, 145, 130, 85, 42, 36, 54]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 62, 54, 61, 155, 175, 169, 142, 100, 69, 72, 75, 28, 18, 27, 47, 68, 70],
+					"all_points_y": [68, 89, 114, 133, 152, 177, 210, 226, 223, 204, 182, 167, 144, 128, 79, 53, 46, 68]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img9.png173498": {
+		"fileref": "",
+		"size": 173498,
+		"filename": "img9.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 105, 126, 129, 117, 99, 63, 29, 23, 56, 51, 25, 29, 53, 70],
+					"all_points_y": [63, 63, 80, 103, 125, 149, 165, 157, 125, 115, 107, 93, 71, 59, 63]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 129, 167, 212, 279, 321, 329, 303, 256, 215, 195, 265, 255, 140, 112, 35, 31, 73, 123],
+					"all_points_y": [55, 103, 110, 126, 149, 142, 120, 109, 100, 78, 66, 62, 39, 5, 0, 11, 43, 51, 55]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img9_a.png115026": {
+		"fileref": "",
+		"size": 115026,
+		"filename": "img9_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 105, 126, 129, 117, 99, 63, 29, 23, 56, 51, 25, 29, 53, 70],
+					"all_points_y": [63, 63, 80, 103, 125, 149, 165, 157, 125, 115, 107, 93, 71, 59, 63]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 129, 167, 212, 279, 321, 329, 303, 256, 215, 195, 265, 255, 140, 112, 35, 31, 73, 123],
+					"all_points_y": [55, 103, 110, 126, 149, 142, 120, 109, 100, 78, 66, 62, 39, 5, 0, 11, 43, 51, 55]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img9_b.png119389": {
+		"fileref": "",
+		"size": 119389,
+		"filename": "img9_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [70, 105, 126, 129, 117, 99, 63, 29, 23, 56, 51, 25, 29, 53, 70],
+					"all_points_y": [63, 63, 80, 103, 125, 149, 165, 157, 125, 115, 107, 93, 71, 59, 63]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 129, 167, 212, 279, 321, 329, 303, 256, 215, 195, 265, 255, 140, 112, 35, 31, 73, 123],
+					"all_points_y": [55, 103, 110, 126, 149, 142, 120, 109, 100, 78, 66, 62, 39, 5, 0, 11, 43, 51, 55]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img10.png77536": {
+		"fileref": "",
+		"size": 77536,
+		"filename": "img10.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [94, 32, 14, 25, 62, 115, 152, 159, 153, 94],
+					"all_points_y": [5, 42, 73, 107, 165, 172, 127, 72, 5, 5]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [88, 123, 108, 75, 49, 59, 88],
+					"all_points_y": [173, 220, 239, 238, 199, 177, 173]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img10_a.png54842": {
+		"fileref": "",
+		"size": 54842,
+		"filename": "img10_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [94, 32, 14, 25, 62, 115, 152, 159, 153, 94],
+					"all_points_y": [5, 42, 73, 107, 165, 172, 127, 72, 5, 5]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [88, 123, 108, 75, 49, 59, 88],
+					"all_points_y": [173, 220, 239, 238, 199, 177, 173]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img10_b.png55025": {
+		"fileref": "",
+		"size": 55025,
+		"filename": "img10_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [94, 32, 14, 25, 62, 115, 152, 159, 153, 94],
+					"all_points_y": [5, 42, 73, 107, 165, 172, 127, 72, 5, 5]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [88, 123, 108, 75, 49, 59, 88],
+					"all_points_y": [173, 220, 239, 238, 199, 177, 173]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img11.png266403": {
+		"fileref": "",
+		"size": 266403,
+		"filename": "img11.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 158, 79, 29, 29, 55, 93, 89, 44, 53, 132, 138, 112, 78, 79, 100, 143, 192, 204, 178],
+					"all_points_y": [10, 39, 37, 103, 180, 237, 252, 263, 264, 292, 297, 253, 210, 199, 130, 88, 74, 59, 15, 10]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [285, 282, 303, 337, 353, 395, 392, 349, 308, 285],
+					"all_points_y": [103, 149, 152, 190, 227, 224, 160, 112, 85, 103]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img11_a.png205847": {
+		"fileref": "",
+		"size": 205847,
+		"filename": "img11_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 158, 79, 29, 29, 55, 93, 89, 44, 53, 132, 138, 112, 78, 79, 100, 143, 192, 204, 178],
+					"all_points_y": [10, 39, 37, 103, 180, 237, 252, 263, 264, 292, 297, 253, 210, 199, 130, 88, 74, 59, 15, 10]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [285, 282, 303, 337, 353, 395, 392, 349, 308, 285],
+					"all_points_y": [103, 149, 152, 190, 227, 224, 160, 112, 85, 103]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img11_b.png199144": {
+		"fileref": "",
+		"size": 199144,
+		"filename": "img11_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 158, 79, 29, 29, 55, 93, 89, 44, 53, 132, 138, 112, 78, 79, 100, 143, 192, 204, 178],
+					"all_points_y": [10, 39, 37, 103, 180, 237, 252, 263, 264, 292, 297, 253, 210, 199, 130, 88, 74, 59, 15, 10]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [285, 282, 303, 337, 353, 395, 392, 349, 308, 285],
+					"all_points_y": [103, 149, 152, 190, 227, 224, 160, 112, 85, 103]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img12.png147960": {
+		"fileref": "",
+		"size": 147960,
+		"filename": "img12.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 304, 334, 315, 212, 133, 48, 2, 10, 53, 178],
+					"all_points_y": [72, 52, 72, 104, 142, 137, 120, 88, 54, 60, 72]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img12_a.png107801": {
+		"fileref": "",
+		"size": 107801,
+		"filename": "img12_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 304, 334, 315, 212, 133, 48, 2, 10, 53, 178],
+					"all_points_y": [72, 52, 72, 104, 142, 137, 120, 88, 54, 60, 72]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img12_b.png106344": {
+		"fileref": "",
+		"size": 106344,
+		"filename": "img12_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 304, 334, 315, 212, 133, 48, 2, 10, 53, 178],
+					"all_points_y": [72, 52, 72, 104, 142, 137, 120, 88, 54, 60, 72]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img13.png238904": {
+		"fileref": "",
+		"size": 238904,
+		"filename": "img13.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 217, 210, 187, 119, 107, 114, 160],
+					"all_points_y": [228, 255, 278, 274, 260, 237, 223, 228]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [249, 232, 234, 280, 323, 323, 249],
+					"all_points_y": [248, 265, 279, 300, 290, 264, 248]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img13_a.png166986": {
+		"fileref": "",
+		"size": 166986,
+		"filename": "img13_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 217, 210, 187, 119, 107, 114, 160],
+					"all_points_y": [228, 255, 278, 274, 260, 237, 223, 228]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [249, 232, 234, 280, 323, 323, 249],
+					"all_points_y": [248, 265, 279, 300, 290, 264, 248]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img13_b.png165150": {
+		"fileref": "",
+		"size": 165150,
+		"filename": "img13_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 217, 210, 187, 119, 107, 114, 160],
+					"all_points_y": [228, 255, 278, 274, 260, 237, 223, 228]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [249, 232, 234, 280, 323, 323, 249],
+					"all_points_y": [248, 265, 279, 300, 290, 264, 248]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img14.png314480": {
+		"fileref": "",
+		"size": 314480,
+		"filename": "img14.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 137, 159, 239, 275, 345, 317, 308, 334, 424, 468, 480, 453, 324, 230, 140, 100, 80, 90, 47, 44, 58],
+					"all_points_y": [67, 64, 98, 119, 133, 144, 150, 172, 193, 183, 147, 92, 69, 63, 37, 12, 3, 19, 28, 30, 63, 67]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [62, 153, 162, 129, 78, 35, 14, -1, 0, 62],
+					"all_points_y": [87, 134, 198, 234, 213, 249, 277, 248, 109, 87]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [219, 231, 264, 253, 241, 219],
+					"all_points_y": [131, 112, 127, 144, 149, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [265, 253, 263, 314, 318, 265],
+					"all_points_y": [131, 163, 174, 168, 144, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img14_a.png240197": {
+		"fileref": "",
+		"size": 240197,
+		"filename": "img14_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 137, 159, 239, 275, 345, 317, 308, 334, 424, 468, 480, 453, 324, 230, 140, 100, 80, 90, 47, 44, 58],
+					"all_points_y": [67, 64, 98, 119, 133, 144, 150, 172, 193, 183, 147, 92, 69, 63, 37, 12, 3, 19, 28, 30, 63, 67]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [62, 153, 162, 129, 78, 35, 14, -1, 0, 62],
+					"all_points_y": [87, 134, 198, 234, 213, 249, 277, 248, 109, 87]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [219, 231, 264, 253, 241, 219],
+					"all_points_y": [131, 112, 127, 144, 149, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [265, 253, 263, 314, 318, 265],
+					"all_points_y": [131, 163, 174, 168, 144, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img14_b.png233057": {
+		"fileref": "",
+		"size": 233057,
+		"filename": "img14_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 137, 159, 239, 275, 345, 317, 308, 334, 424, 468, 480, 453, 324, 230, 140, 100, 80, 90, 47, 44, 58],
+					"all_points_y": [67, 64, 98, 119, 133, 144, 150, 172, 193, 183, 147, 92, 69, 63, 37, 12, 3, 19, 28, 30, 63, 67]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [62, 153, 162, 129, 78, 35, 14, -1, 0, 62],
+					"all_points_y": [87, 134, 198, 234, 213, 249, 277, 248, 109, 87]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [219, 231, 264, 253, 241, 219],
+					"all_points_y": [131, 112, 127, 144, 149, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [265, 253, 263, 314, 318, 265],
+					"all_points_y": [131, 163, 174, 168, 144, 131]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img15.png83866": {
+		"fileref": "",
+		"size": 83866,
+		"filename": "img15.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 78, 127, 105, 38, 5, 2, 19, 45, 82, 108, 157, 174, 172, 99, 59, 44, 58],
+					"all_points_y": [35, 49, 65, 79, 77, 83, 108, 118, 109, 122, 127, 103, 75, 35, 13, 8, 19, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [37, 150, 180, 189, 150, 116, 74, 45, 32, 29, 37],
+					"all_points_y": [178, 104, 93, 103, 136, 168, 200, 207, 203, 185, 178]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img15_a.png56364": {
+		"fileref": "",
+		"size": 56364,
+		"filename": "img15_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 78, 127, 105, 38, 5, 2, 19, 45, 82, 108, 157, 174, 172, 99, 59, 44, 58],
+					"all_points_y": [35, 49, 65, 79, 77, 83, 108, 118, 109, 122, 127, 103, 75, 35, 13, 8, 19, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [37, 150, 180, 189, 150, 116, 74, 45, 32, 29, 37],
+					"all_points_y": [178, 104, 93, 103, 136, 168, 200, 207, 203, 185, 178]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img15_b.png57296": {
+		"fileref": "",
+		"size": 57296,
+		"filename": "img15_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [58, 78, 127, 105, 38, 5, 2, 19, 45, 82, 108, 157, 174, 172, 99, 59, 44, 58],
+					"all_points_y": [35, 49, 65, 79, 77, 83, 108, 118, 109, 122, 127, 103, 75, 35, 13, 8, 19, 35]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [37, 150, 180, 189, 150, 116, 74, 45, 32, 29, 37],
+					"all_points_y": [178, 104, 93, 103, 136, 168, 200, 207, 203, 185, 178]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img16.png403216": {
+		"fileref": "",
+		"size": 403216,
+		"filename": "img16.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [54, 72, 108, 133, 161, 176, 182, 170, 182, 167, 89, 56, 54],
+					"all_points_y": [233, 220, 212, 213, 226, 238, 266, 274, 294, 307, 306, 267, 233]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 235, 283, 310, 282, 225, 200, 196],
+					"all_points_y": [264, 232, 233, 261, 281, 282, 274, 264]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img16_a.png273982": {
+		"fileref": "",
+		"size": 273982,
+		"filename": "img16_a.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [54, 72, 108, 133, 161, 176, 182, 170, 182, 167, 89, 56, 54],
+					"all_points_y": [233, 220, 212, 213, 226, 238, 266, 274, 294, 307, 306, 267, 233]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 235, 283, 310, 282, 225, 200, 196],
+					"all_points_y": [264, 232, 233, 261, 281, 282, 274, 264]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	},
+	"img16_b.png280982": {
+		"fileref": "",
+		"size": 280982,
+		"filename": "img16_b.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [54, 72, 108, 133, 161, 176, 182, 170, 182, 167, 89, 56, 54],
+					"all_points_y": [233, 220, 212, 213, 226, 238, 266, 274, 294, 307, 306, 267, 233]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 235, 283, 310, 282, 225, 200, 196],
+					"all_points_y": [264, 232, 233, 261, 281, 282, 274, 264]
+				},
+				"region_attributes": {
+					"name": "lake"
+				}
+			}
+		}
+	}
+}
